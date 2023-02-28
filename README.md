@@ -1,1 +1,1 @@
-# Parralax-Website
+# Parallax-Website
